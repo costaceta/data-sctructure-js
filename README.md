@@ -1,1 +1,3 @@
 # Data Sctructure Js
+
+* Stack
