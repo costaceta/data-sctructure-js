@@ -1,3 +1,3 @@
 # Data Sctructure Js
 
-* Stack
+* [Stack](stack.js)
